@@ -12,4 +12,4 @@ Information regarding CKAN's API can be found [here](https://docs.ckan.org/en/2.
 
 - Working with the CKAN API in NodeJS - [Javascript Sample.ipynb](https://github.com/Smart7br7/open-data-code-samples/blob/master/Javascript%20Sample.ipynb)
 - Working with the CKAN API in Python - [Python Sample.ipynb](https://github.com/Smart7br7/open-data-code-samples/blob/master/Python%20Sample.ipynb)
-- Loading data onto a map using d3.js: https://observablehq.com/@akariv/dog-parks-in-beersheva
+- Loading data onto a map using Leadlet.js: https://observablehq.com/@akariv/dog-parks-in-beersheva
